@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Formosa Plastics Copr.
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: [Send me email](mailto:taiying.tychen@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Hiking and tubing
+
+
+
 <!--
 **aaronlai1027/aaronlai1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
