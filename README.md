@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Formosa Plastics Copr.
+- 🔭 I’m currently working on Formosa Plastics Corp.
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: [Send me email](mailto:taiying.tychen@gmail.com)
 - 😄 Pronouns: He/Him
