@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Formosa Plastics Corp.
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: [Send me email](mailto:taiying.tychen@gmail.com)
+- 🔭 I’m currently working on Amazon AWS ECR.
+- 📫 How to reach me: [Send me email](mailto:aaronlai1027@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hiking and tubing
 
